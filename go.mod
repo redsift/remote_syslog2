@@ -30,9 +30,9 @@ require (
 	github.com/spf13/afero v0.0.0-20160821083612-20500e2abd0d // indirect
 	github.com/spf13/cast v0.0.0-20160730092037-e31f36ffc91a // indirect
 	github.com/spf13/jwalterweatherman v0.0.0-20160311093646-33c24e77fb80 // indirect
-	golang.org/x/crypto v0.0.0-20160909120217-05d11b2ca141 // indirect
-	golang.org/x/sys v0.0.0-20160429193239-b776ec39b3e5 // indirect
-	golang.org/x/text v0.0.0-20160908145610-1e65e9bf72c3 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
+	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/text v0.21.0 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/yaml.v2 v2.0.0-20160715033755-e4d366fc3c79 // indirect
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
